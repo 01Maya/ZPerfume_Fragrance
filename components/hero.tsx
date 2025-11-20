@@ -10,7 +10,7 @@ const heroImages = [
   'T newyc.png',
   'T ibiza night.png',
   'T miami.png',
-  'T Florence spring.png'
+  'T Florence spring.png',
 ]
 
 const heroHeadlines = [
