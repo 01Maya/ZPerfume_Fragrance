@@ -9,8 +9,8 @@ const heroImages = [
   'T Bgroup (2).png',
   'T newyc.png',
   'T ibiza night.png',
-  'T Florence spring.png',
-  'T oslo ejord.png',
+  'T miami.png',
+  'T Florence spring.png'
 ]
 
 const heroHeadlines = [
