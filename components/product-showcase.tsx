@@ -106,7 +106,7 @@ const products = [
     bgLight: 'bg-purple-50',
     city: 'Florence',
     image:
-      'T florence spring.png'
+      'T Florence spring.png'
   }
 ]
 
