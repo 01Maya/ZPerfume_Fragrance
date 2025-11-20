@@ -293,7 +293,7 @@ export default function Footer(): JSX.Element {
 
             <div className="flex items-center gap-2">
               <a
-                href="https://mansicardportfolio.vercel.app/"
+                href="https://zperf-fragrance.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-700 hover:text-purple-600 transition-all duration-300 hover:translate-x-1"
