@@ -105,7 +105,7 @@ const perfumes = [
     description: 'Fresh Pastel Lavender',
     textColor: 'text-purple-900',
     bgGradient: 'from-purple-300 to-pink-200',
-    image: 'T florence spring.png',
+    image: 'T Florence spring.png',
     city: 'Florence',
   },
 ]
