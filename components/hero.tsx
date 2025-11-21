@@ -177,8 +177,7 @@ export default function Hero() {
           }}
         >
           <div className="flex flex-col items-center gap-2">
-            <p className="text-sm text-gray-500 font-medium">Scroll to Explore</p>
-            <ChevronDown className="w-6 h-6 text-gray-400" />
+             <ChevronDown className="w-6 h-6 text-gray-400" />
           </div>
         </div>
 
