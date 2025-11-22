@@ -37,7 +37,7 @@ export default function Footer(): JSX.Element {
     { name: 'Athens Glow', color: '#FFE767', city: 'Athens' },
     { name: 'Ibiza Nights', color: '#00C9FF', city: 'Ibiza' },
     { name: 'Sydney Sun', color: '#FF5C47', city: 'Sydney' },
-    { name: 'Miami Miami', color: '#FF85CE', city: 'Miami' },
+    { name: 'Miami', color: '#FF85CE', city: 'Miami' },
     { name: 'Lisbon Fado', color: '#66FF7A', city: 'Lisbon' },
     { name: 'Paris Girl', color: '#FF3D8E', city: 'Paris' },
     { name: 'Oslo Fjord', color: '#75E8E2', city: 'Oslo' },
