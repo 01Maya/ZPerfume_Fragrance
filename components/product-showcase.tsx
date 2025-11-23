@@ -55,7 +55,7 @@ const products = [
       'T sydney sun.png'
   },
   {
-    name: 'Miami',
+    name: 'Miami Waves',
     color: '#FF85CE',
     textColor: 'text-pink-600',
     bgLight: 'bg-pink-50',
