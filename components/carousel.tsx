@@ -9,7 +9,7 @@ const cityIcons: { [key: string]: React.ReactNode } = {
   'Athens Glow': '⛪',
   'Ibiza Nights': '🌴',
   'Sydney Sun': '🦘',
-  'Miami': '🏖️',
+  'Miami Waves': '🏖️',
   'Lisbon Fado': '🎸',
   'Paris Girl': '🗼',
   'Oslo Fjord': '⛰️',
@@ -55,7 +55,7 @@ const perfumes = [
     city: 'Sydney',
   },
   {
-    name: 'Miami',
+    name: 'Miami Waves',
     color: '#FF85CE',
     description: 'Vibrant Pink Pop',
     textColor: 'text-pink-900',
