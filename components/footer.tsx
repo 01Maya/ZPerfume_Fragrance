@@ -233,8 +233,8 @@ export default function Footer(): JSX.Element {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <h3 className="flex items-center gap-2 text-2xl font-bold">
-                  <Sparkles className="w-6 h-6 text-purple-600" />
                   Scent Updates & Exclusive Offers
+                  <Sparkles className="w-6 h-6 text-purple-600" />
                 </h3>
                 <p className="text-gray-700 text-sm">
                   Get first access to new fragrances and exclusive releases.
