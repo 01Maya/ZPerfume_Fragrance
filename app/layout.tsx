@@ -6,7 +6,7 @@ import GlobalParticles from '@/components/GlobalParticles'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Zudio Perf - Luxury Fragrances',
+  title: 'Zudio Perf - Luxury Fragrances ✨',
   description: 'Experience luxury fragrances inspired by iconic world cities',
 }
 
