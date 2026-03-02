@@ -45,7 +45,7 @@ Every scroll, hover, and interaction is designed to capture the essence of moder
 ---
 
 ## 🔍 Preview  
-Explore the live immersive experience:  
+Explore the live immersive experience: ✨
 🔗 **https://zperf-fragrance.vercel.app/**
 
 ---
