@@ -79,3 +79,5 @@ Follow these steps to run the project locally:
 ## 🖋️ License
 
 © 2025 ZPERF Fragrance. All rights reserved.
+
+---
