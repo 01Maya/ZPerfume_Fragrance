@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Zudio Perf - Luxury Fragrances ✨',
-  description: 'Experience luxury fragrances inspired by iconic world cities 🌉',
+  description: 'Experience luxury fragrances inspired by iconic world cities 🌈 🌉',
 }
 
 export default function RootLayout({
