@@ -24,7 +24,7 @@ Every scroll, hover, and interaction is designed to capture the essence of moder
 
 ---
 
-## 📂 Sections  
+## 📂 Sections  🪄
 
 - **Hero:** Introduces the brand with captivating visuals, tagline, and CTA.  
 - **Product Carousel:** Displays premium fragrances with motion and smooth transitions.  
