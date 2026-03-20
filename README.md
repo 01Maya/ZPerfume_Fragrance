@@ -5,7 +5,7 @@
 A luxurious and interactive fragrance landing page that blends elegance with technology.  
 Crafted to deliver a sensory experience through motion, depth, and interactivity.
 
-## 🪶 Overview  
+## 🪶 Overview  🔍
 ZPERF introduces a premium fragrance experience through elegant design and subtle animations.  
 The site brings perfumes to life with movement, texture, and immersive visuals.  
 Every scroll, hover, and interaction is designed to capture the essence of modern luxury.
