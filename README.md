@@ -1,6 +1,6 @@
 ---
 
-# 🌿 ZPERF – Fragrance Experience Website
+# 🌿 ZPERF – Fragrance Experience Website 🌸
 
 A luxurious and interactive fragrance landing page that blends elegance with technology.  
 Crafted to deliver a sensory experience through motion, depth, and interactivity.
