@@ -12,7 +12,7 @@ Every scroll, hover, and interaction is designed to capture the essence of moder
 
 ---
 
-## ✨ Features  
+## ✨ Features  🌈
 
 - **Responsive Design** – Optimized for all screen sizes and devices for a seamless experience.  
 - **Smooth Animations** – Elegant transitions using Framer Motion and motion-based effects.  
