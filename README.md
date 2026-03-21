@@ -35,7 +35,7 @@ Every scroll, hover, and interaction is designed to capture the essence of moder
 
 ---
 
-## 🧩 Tech Stack  
+## 🧩 Tech Stack  🪄
 
 - **Next.js** – Modern React framework for optimized performance and routing.  
 - **Tailwind CSS** – For responsive and utility-first design styling.  
