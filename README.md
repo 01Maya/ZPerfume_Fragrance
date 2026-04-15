@@ -50,7 +50,7 @@ Explore the live immersive experience:
 
 ---
 
-## 🖼️ Screenshot  
+## 🖼️ Screenshot  ✨
 
 ![Image](https://github.com/user-attachments/assets/afcf24a3-95cc-4ac7-8cdb-bd0116727fbe)
 
