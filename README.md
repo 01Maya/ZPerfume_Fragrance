@@ -56,7 +56,7 @@ Explore the live immersive experience:
 
 ---
 
-## ⚙️ Installation  
+## ⚙️ Installation  🖥️
 
 Follow these steps to run the project locally:
 
