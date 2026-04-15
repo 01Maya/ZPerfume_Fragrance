@@ -76,7 +76,7 @@ Follow these steps to run the project locally:
 ```
 ---
 
-## 🖋️ License
+## 🖋️ License 📄
 
 © 2025 ZPERF Fragrance. All rights reserved.
 
